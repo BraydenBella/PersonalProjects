@@ -1,0 +1,22 @@
+{
+  "name": "video-sorter",
+  "version": "1.0.0",
+  "description": "newScripit",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraydenBella/PersonalProjects.git"
+  },
+  "keywords": [
+    "Script"
+  ],
+  "author": "Brayden Bella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BraydenBella/PersonalProjects/issues"
+  },
+  "homepage": "https://github.com/BraydenBella/PersonalProjects#readme"
+}
